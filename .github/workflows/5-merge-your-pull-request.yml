@@ -62,4 +62,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 5
           to_step: X
-          base_branch_name: ci
+          base_branch_name: main
